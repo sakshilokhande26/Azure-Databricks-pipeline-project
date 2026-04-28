@@ -1,0 +1,15 @@
+{
+	"name": "sl-adf-netflix",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b53399a2-bd6a-476d-8d0f-9864b84b6c4f",
+		"tenantId": "24457472-d83c-4ae5-b186-e62fb519cd9a"
+	}
+}
